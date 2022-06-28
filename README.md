@@ -1,3 +1,5 @@
+# code 
+https://redis.com/try-free/?coupon=BAZZI200&utm_medium=display&utm_source=youtube&utm_campaign=2021-11-reinvent+try_free+bazzi200
 # EmployeeDB
 Advanced Redis search functionalities on Python applied on an Employee management backend app. This code is free to use and provides you a methodology of using Redis methods with super minimilistic code (some methods need only 1 line of code).
 
